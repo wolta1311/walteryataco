@@ -1,0 +1,5 @@
+https://github.com/wolta1311/walteryataco.git
+
+
+git config --global user.name "wolta1311"
+git config --global user.email "wolta1311@gmail.com"
